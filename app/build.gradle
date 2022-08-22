@@ -36,5 +36,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    implementation project(":Toast")
+//    implementation project(":Toast")
+    implementation 'com.github.zhongruiAndroid:ToastProject:1.0.0'
+
 }
